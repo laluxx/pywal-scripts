@@ -1,6 +1,10 @@
-
 # COLORS GOOD
 # POSITION GOOD
+# TODO alias are not found 
+# be smaller 
+# vim navigation maube
+# atuocompletition inside instantmenu
+# keybind for instantmenu inside xmonad
 import re
 import os
 import subprocess
