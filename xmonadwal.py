@@ -1,3 +1,6 @@
+# this script simply genrates
+# ~/.config/xmobar/wal-xmobarrc and ~/.config/xmonad/lib/Colors/Wal.hs
+
 import re
 import os
 from itertools import cycle
